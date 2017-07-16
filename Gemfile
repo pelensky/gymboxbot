@@ -7,3 +7,4 @@ source "https://rubygems.org"
  gem "selenium-webdriver"
  gem "dotenv"
  gem "rake"
+ gem 'sinatra'
