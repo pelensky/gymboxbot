@@ -39,7 +39,8 @@ def book_class_based_on_day
 end
 
 def monday_classes
-  book_class(Date.new(2017,07,16), 1002373)
+ # THIS IS THE NORMAL ONE book_class(Date.new(2017,07,16), 1002373)
+  book_class(Date.new(2017,07,16), 1023130)
 end
 
 def tuesday_classes
