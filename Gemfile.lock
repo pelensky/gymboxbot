@@ -56,5 +56,8 @@ DEPENDENCIES
   rspec
   selenium-webdriver
 
+RUBY VERSION
+   ruby 2.4.0p0
+
 BUNDLED WITH
    1.15.1
